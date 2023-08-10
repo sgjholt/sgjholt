@@ -1,6 +1,6 @@
 # Welcome to my GitHub page!
 
-I’m a data scientist with 1.5 years of experience and a PhD in geophysics. Here you can find some of the projects I’ve worked on and the skills I’ve learned along the way.
+I’m a data scientist with 3+ years of experience with a Ph.D. in Geophysics. Here you can find some of the projects I’ve worked on and the skills I’ve learned along the way.
 
 About me
 I have always been fascinated by the natural phenomena that shape our planet and the data that can help us understand them better. That’s why I pursued a Ph.D. in geophysics, where I studied seismic waves and their interactions with the Earth’s structure. I used Python and MATLAB to process and analyze large datasets of seismic recordings from around the world. During my time as a researcher, I published three first-author peer-reviewed publications in reputable journals.
