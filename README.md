@@ -15,7 +15,7 @@ My most recent position was working as a Data Scientist at Coyote Logistics, whi
 
 Here are some of the projects I've worked on or I'm currently working on:
 
-- **Freight Market Cost Distribution**: Used a combination of a customised Boosted Gradiant Random Forest algorithm, and LightGBM / H2O.ai Gradient Boosting models, combined via a live API model service. The model API generates a predicted distribution, that represents the most likely range of costs to move variable classes of freight equipment and cargo, to and from distribution centers across the USA, Canada, and Mexico. This model was used to generating millions of dollars of additional revenue, as it supported intellegent buying and brokering negotiations at scale. 
+- **Freight Market Cost Distribution**: I was the team lead of the spot pricing team, which developed a cutting-edge machine learning system that used a custom Boosted Gradiant Random Forest algorithm, and LightGBM / H2O.ai Gradient Boosting models, integrated through a live API model service. The model API produced a predicted distribution, that showed the most probable range of costs to transport different types of freight equipment and cargo, to and from distribution centers across the USA, Canada, and Mexico. This model helped us generate millions of dollars of extra revenue, as it enabled smart buying and brokering negotiations at scale.
 
 - **Corn Yield Prediction**: Created new and improved existing random forest models to predict corn seed yield across the world, leveraging multi-year spanning historic yields, and agronomic features (e.g., weather conditions, soil conditions, field clusters defined using remote sensing data, etc.).
 
