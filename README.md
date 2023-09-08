@@ -11,11 +11,11 @@ I then decided to switch gears and explore other domains where data science can 
 
 My most recent position was working as a Data Scientist at Coyote Logistics, which is a 3PL service provider where I work on sophisticated predictive models that estimate potential distributions of market cost for a given load of freight. I use Python, SQL (and noSQL), and Databricks to ingest and transform data from various sources such as carriers, shippers, brokers, and third-party APIs. I also use LightGBM, scikit-learn, and PyTorch to build and fit models that capture the uncertainty and variability of the freight market.
 
-## Projects
+## Data Science Projects
 
 Here are some of the projects I've worked on or I'm currently working on:
 
-- **Freight Market Cost Distribution**: Used a combination of Random Forest and LightGBM models to predict a potential cost distributions around the price to move certain freight to and from distribution centers across the USA. The models use proprietary in-house data to generate a prediction.
+- **Freight Market Cost Distribution**: Used a combination of a customised Boosted Gradiant Random Forest algorithm, and LightGBM / H2O.ai Gradient Boosting models, combined via a live API model service. The model API generates a predicted distribution, that represents the most likely range of costs to move variable classes of freight equipment and cargo, to and from distribution centers across the USA, Canada, and Mexico. This model was used to generating millions of dollars of additional revenue, as it supported intellegent buying and brokering negotiations at scale. 
 
 - **Corn Yield Prediction**: Created new and improved existing random forest models to predict corn seed yield across the world, leveraging multi-year spanning historic yields, and agronomic features (e.g., weather conditions, soil conditions, field clusters defined using remote sensing data, etc.).
 
