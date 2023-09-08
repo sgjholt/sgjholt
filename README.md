@@ -15,9 +15,11 @@ My most recent position was working as a Data Scientist at Coyote Logistics, whi
 
 Here are some of the projects I've worked on or I'm currently working on:
 
-- **Earthquake Magnitude Estimation**: Created physics-informed empirical models of amplitude decay over distance via non-parametric inversions, pre-conditioned using events with known earthquake magnitudes. This method was applied for both Local (Richter), and Moment Magnitudes estimations, with the latter focusing on small magnitude estimation, which is difficult to obtain via conventional physical modeling. This work resulted in two peer-reviewed publications which were published in the Bulletin of the Seismological Society of America, and Seismological Research Letters.
-- **Corn Yield Prediction**: Created new and improved existing random forest models to predict corn seed yield across the world, leveraging multi-year spanning historic yields, and agronomic features (e.g., weather conditions, soil conditions, field clusters defined using remote sensing data, etc.).
 - **Freight Market Cost Distribution**: Used a combination of Random Forest and LightGBM models to predict a potential cost distributions around the price to move certain freight to and from distribution centers across the USA. The models use proprietary in-house data to generate a prediction.
+
+- **Corn Yield Prediction**: Created new and improved existing random forest models to predict corn seed yield across the world, leveraging multi-year spanning historic yields, and agronomic features (e.g., weather conditions, soil conditions, field clusters defined using remote sensing data, etc.).
+
+- **Earthquake Magnitude Estimation**: Created physics-informed empirical models of amplitude decay over distance via non-parametric inversions, pre-conditioned using events with known earthquake magnitudes. This method was applied for both Local (Richter), and Moment Magnitudes estimations, with the latter focusing on small magnitude estimation, which is difficult to obtain via conventional physical modeling. This work resulted in two peer-reviewed publications which were published in the Bulletin of the Seismological Society of America, and Seismological Research Letters.
 
 ## Skills
 
