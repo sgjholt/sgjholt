@@ -1,4 +1,4 @@
-# Welcome to my GitHub page!
+# Who am I?
 
 I’m a data scientist with 2+ years of industry experience, and a Ph.D. in Geophysics. In this document, I will showcase some of the projects I’ve worked on and the skills I’ve acquired along the way. 
 
