@@ -1,6 +1,6 @@
 # Welcome to my GitHub page!
 
-I’m a data scientist with 2+ years of industry experience, and a Ph.D. in Geophysics. In this document, I will showcase some of the projects I’ve worked on and the skills I’ve acquired along the way.
+I’m a data scientist with 2+ years of industry experience, and a Ph.D. in Geophysics. In this document, I will showcase some of the projects I’ve worked on and the skills I’ve acquired along the way. 
 
 ## About me
 My passion for data science stems from my curiosity about the natural phenomena that shape our planet and the data that can help us comprehend them better. That’s why I obtained a Ph.D. in geophysics, where I investigated seismic waves and their interactions with the Earth’s structure. I utilized Python and MATLAB to process and examine large datasets of seismic recordings (digital time series) from around the world. As a researcher, I authored three peer-reviewed publications in reputable journals.
@@ -20,6 +20,9 @@ Here are some of the projects I've worked on or I'm currently working on:
 - **Corn Yield Prediction**: Created new and improved existing random forest models to predict corn seed yield across the world, leveraging multi-year spanning historic yields, and agronomic features (e.g., weather conditions, soil conditions, field clusters defined using remote sensing data, etc.).
 
 - **Earthquake Magnitude Estimation**: Created physics-informed empirical models of amplitude decay over distance via non-parametric inversions, pre-conditioned using events with known earthquake magnitudes. This method was applied for both Local (Richter), and Moment Magnitudes estimations, with the latter focusing on small magnitude estimation, which is difficult to obtain via conventional physical modeling. This work resulted in two peer-reviewed publications which were published in the Bulletin of the Seismological Society of America, and Seismological Research Letters.
+
+## Personal Projects
+- **Portfolio Website**: [https://sgjholt.github.io](https://sgjholt.github.io) - I built myself a portfolio/blog-style website using the [Jekyll](https://jekyllrb.com/) framework (based on Ruby) which is hosted on [Github Pages](https://pages.github.com/) The website uses [Github Actions](https://docs.github.com/en/actions) to automatically redploy the code when a change is pushed to the default branch. Here's a link to the repo: [https://github.com/sgjholt/sgjholt.github.io](https://github.com/sgjholt/sgjholt.github.io)
 
 ## Skills
 
