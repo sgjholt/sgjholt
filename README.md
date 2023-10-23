@@ -1,8 +1,8 @@
-# Who am I?
+# A Quick, Who am I?
 
-I’m a data scientist with 2+ years of industry experience, and a Ph.D. in Geophysics. In this document, I will showcase some of the projects I’ve worked on and the skills I’ve acquired along the way. 
+I’m an experienced data scientist with almost a decade of employment sucessfully applying scientific methods, to different disciplines, between in industry and academia. I hold three advanced degrees, two in Geophysics (Ph.D., and BSc.), and one in Risk and Uncertainty Management (MRes.) awarded by the University of Liverpool (Liverpool, UK). I typically use Python as my language of choice, given its wide support and integration withing the machine learning community, but I also frequently use shell (Bash/ZSH/Powershell), SQL, HTML/CSS, and have used Ruby, C++, C#, Perl, Fortran, and MATLAB.  
 
-## About me
+## More About me
 My passion for data science stems from my curiosity about the natural phenomena that shape our planet and the data that can help us comprehend them better. That’s why I obtained a Ph.D. in geophysics, where I investigated seismic waves and their interactions with the Earth’s structure. I utilized Python and MATLAB to process and examine large datasets of seismic recordings (digital time series) from around the world. As a researcher, I authored three peer-reviewed publications in reputable journals.
 
 After completing my degree, I joined a leading seismological observatory as a researcher (University of Utah Seismograph Stations), where I continued to work on seismic data analysis and earthquake magnitude modeling. I cooperated with other scientists from the USGS, AFRL, LLNL, and other institutions to enhance our understanding of earthquake hazards and risks.
