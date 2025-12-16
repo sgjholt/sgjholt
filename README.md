@@ -21,9 +21,6 @@ Here are some of the projects I've worked on or I'm currently working on:
 
 - **Earthquake Magnitude Estimation**: Created physics-informed empirical models of amplitude decay over distance via non-parametric inversions, pre-conditioned using events with known earthquake magnitudes. This method was applied for both Local (Richter), and Moment Magnitudes estimations, with the latter focusing on small magnitude estimation, which is difficult to obtain via conventional physical modeling. This work resulted in two peer-reviewed publications which were published in the Bulletin of the Seismological Society of America, and Seismological Research Letters.
 
-## Personal Projects
-- **Portfolio Website**: [https://sgjholt.github.io](https://sgjholt.github.io) - I built myself a portfolio/blog-style website using the [Jekyll](https://jekyllrb.com/) framework (based on Ruby) which is hosted on [Github Pages](https://pages.github.com/) The website uses [Github Actions](https://docs.github.com/en/actions) to automatically redploy the code when a change is pushed to the default branch. Here's a link to the repo: [https://github.com/sgjholt/sgjholt.github.io](https://github.com/sgjholt/sgjholt.github.io)
-
 ## Skills
 
 Here are some of the skills I've learned or improved during my data science journey:
